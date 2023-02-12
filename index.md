@@ -13,15 +13,15 @@ Les Grèves à la SNCF, une habitude qui se perd ?
 
 Les raisons de la colère 
 
-6. [Diaporama : évolution du nombre de voyageur, du nombre d'agent par catégorie et de l'état du réseau férroviaire](#7-Diaporama)
-7. [Niveau des salaire à la SNCF](#8-salaire)
-8. [Temps de travail à la SNCF](#9-temps-travail)
-9. [Age de départ à la retraite à la SNCF](#10-retraite)
-10. [Nomnbre de suicide dont le caractère professionnel a été reconnu à la SNCF depuis 2007](#11-suicide)
+6. [Diaporama : évolution du nombre de voyageur, du nombre d'agent par catégorie et de l'état du réseau férroviaire](#6-Diaporama)
+7. [Niveau des salaire à la SNCF](#7-salaire)
+8. [Temps de travail à la SNCF](#8-temps-travail)
+9. [Age de départ à la retraite à la SNCF](#9-retraite)
+10. [Nombre de suicide dont le caractère professionnel a été reconnu à la SNCF depuis 2007](#10-suicide)
 
 
 
-## 1. Origine des données
+## 1. Origine des données(#1-origine-des-données)
 
 Les données qui sont vous présentées proviennent de la base de donnée de la SNCF, qui fournit plus de 200 jeux de données différents. Pour étailler ces données, le site Statista a été très utile notamment pour prolonger certains jeux dont les bornes chronologiques était trop réduites. 
 
