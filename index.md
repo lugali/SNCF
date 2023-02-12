@@ -36,14 +36,15 @@ Il n'aura échappé à personne que les journées de grèves depuis le 19 janvie
 
 <iframe title="Totale des journées perdues à la SNCF par an depuis 1947" aria-label="Column Chart" id="datawrapper-chart-4UAcM" src="https://datawrapper.dwcdn.net/4UAcM/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="564" data-external="1"></iframe>
 
+   Cette première visualisation a été réalisé avec Datawrapper, l'idée était d'utiliser la représentation en barre, mais d'y ajouter du contexte historique pour ne pas rendre le graphique trop austère et de donner des premiers éléments d'explication aux différennts pics. 
 
    Ce premier graphique nous renseigne sur le nombre totale d'heure perdue en une année par la SNCF. Un coup d'œil rapide permet de repérer l'éléphant dans la pièce. Ou plutôt les 3 éléphants, que sont les années 1947, 1953 et surtout 1968. Chacune de ses 3 années de contestations sociales fait culminer le nombre de journées perdues à 3 millions par an, et même 4,6 millions pour l'année 1968.
 
-        Ces trois anomalies peuvent à posteriori trouver des justifications, bien que l'étude des contestations sociales ne soit pas une science exacte. Les grèves de 1947 et 1953 portent le sceau de la Seconde Guerre mondiale et ses conséquences dramatiques sur la société française. Ces 2 premiers pics sont liés à une population mal nourri (on parle d'émeutes de la faim en 1947) ruiné et mal logées, qui dans un contexte d'inflation grimpante sort dans la rue, bloque les usines et réclame une revalorisation globale de ses conditions de vie.
+   Ces trois anomalies peuvent à posteriori trouver des justifications, bien que l'étude des contestations sociales ne soit pas une science exacte. Les grèves de 1947 et 1953 portent le sceau de la Seconde Guerre mondiale et ses conséquences dramatiques sur la société française. Ces 2 premiers pics sont liés à une population mal nourri (on parle d'émeutes de la faim en 1947) ruiné et mal logées, qui dans un contexte d'inflation grimpante sort dans la rue, bloque les usines et réclame une revalorisation globale de ses conditions de vie.
         
-        Quant aux événements de mai 68, mobilisation maintes fois analysés, il n'est pas facile de pointer une raison particulière, 68 est autant le fruit de l'usure de pouvoir gaullien qu'un cri de rage de la population française qui voit l'avènement de la génération "soixante-huitarde". Ce qui est certain, c'est que la SNCF a toujours été au diapason de ces épisodes de contestations
+   Quant aux événements de mai 68, mobilisation maintes fois analysés, il n'est pas facile de pointer une raison particulière, 68 est autant le fruit de l'usure de pouvoir gaullien qu'un cri de rage de la population française qui voit l'avènement de la génération "soixante-huitarde". Ce qui est certain, c'est que la SNCF a toujours été au diapason de ces épisodes de contestations
         
-        En-dehors de ces contextes particuliers, les chiffres sont finalement assez stable. Néanmoins, il est clair que depuis 1968, les contestations à la SNCF ont perdue en importance oscillant entre des années très faibles et des "bonnes" années dépassant rarement le demi-million d'heures perdues. Comment analyser ces baisses ?
+   En-dehors de ces contextes particuliers, les chiffres sont finalement assez stable. Néanmoins, il est clair que depuis 1968, les contestations à la SNCF ont perdue en importance oscillant entre des années très faibles et des "bonnes" années dépassant rarement le demi-million d'heures perdues. Comment analyser ces baisses ?
     
 
 
@@ -53,8 +54,8 @@ Il n'aura échappé à personne que les journées de grèves depuis le 19 janvie
 <iframe title="Effectif total de la SNCF depuis 1947 " aria-label="Interactive area chart" id="datawrapper-chart-UmEmY" src="https://datawrapper.dwcdn.net/UmEmY/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="564" data-external="1"></iframe>
 
    La réponse la plus évidente tient à la baisse constante des agents depuis 1947. Si l'on excepte quelques légers soubresauts, le nombre d'agents n'a fait que diminuer depuis la fin des années 1940. Entre 1948 et 2021, le nombre d'agents est passé de plus 471.000 à 136.000, soit un effectif initial divisé par plus de 3 en 75 ans.
-
-        Cette explication semble être un bon indicateur, puisque logiquement, moins il y a des agents, moins il y a des journées de grèves cumulées à la fin de l'année. Pour avoir une meilleure idée de la persistance d'une culture contestataire à la SNFC, regardons l'évolution du nombre de journées perdues par agent depuis 1947.
+   
+   Cette explication semble être un bon indicateur, puisque logiquement, moins il y a des agents, moins il y a des journées de grèves cumulées à la fin de l'année. Pour avoir une meilleure idée de la persistance d'une culture contestataire à la SNFC, regardons l'évolution du nombre de journées perdues par agent depuis 1947.
        
 
 ## 4. Journées perdues par agent de la SNCF depuis 1947
@@ -69,7 +70,9 @@ Il n'aura échappé à personne que les journées de grèves depuis le 19 janvie
 
 <iframe title="Nombre de journées perdues par agent cumulées à la SNCF entre 1947 et 2021" aria-label="Election Donut" id="datawrapper-chart-65H8j" src="https://datawrapper.dwcdn.net/65H8j/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe>
 
-Finalement, si on accumule le totale de journée de grève par agent, par paquet de 17 ou 18 ans, on arrive à un diagnostic plus séquencé. Après une trentaine d'année de grèves très prolifiques (de 1947 à 1980) la contestation sociale à la SNCF a drastiquement baissé à l'aune des années 80. Mais la courbe s'inverse à partir des années 2000 où la contestation à de nouveau la vent en poupe. Depuis 2003, le nombre de journées de grèves accumulées retrouve même le niveau historique des décennies périodes 1947-1965 et 1966-1984.
+   L'utilisation des donuts électifs de Datawrapper pour cette visualisation me semblait justifié puisqu'il s'agissait de décrire une répartition des journées perdues par décenie. L'idée est que la différence de taille des différents quartiers donne à voir immédiatement quelle décenie ont été les plus active avant même de lire les chiffres. 
+
+   Finalement, si on accumule le totale de journée de grève par agent, par paquet de 17 ou 18 ans, on arrive à un diagnostic plus séquencé. Après une trentaine d'année de grèves très prolifiques (de 1947 à 1980) la contestation sociale à la SNCF a drastiquement baissé à l'aune des années 80. Mais la courbe s'inverse à partir des années 2000 où la contestation à de nouveau la vent en poupe. Depuis 2003, le nombre de journées de grèves accumulées retrouve même le niveau historique des décennies périodes 1947-1965 et 1966-1984.
 
 
 
@@ -78,6 +81,8 @@ Finalement, si on accumule le totale de journée de grève par agent, par paquet
 ## 6. Diaporama : évolution du nombre de voyageur, du nombre d'agent par catégorie et de l'état du réseau férroviaire
 
 <iframe src='https://flo.uri.sh/story/1826459/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/1826459/?utm_source=embed&utm_campaign=story/1826459' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+Que peut on apprendre avec ce diaporama ? Tout d'abord que 
 
 ## 7. Niveau des salaire à la SNCF
 
