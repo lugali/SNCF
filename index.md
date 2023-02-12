@@ -1,10 +1,10 @@
-# Projet de datavisualisation: La Contestation sociale à la SNCF, permanence et tentative d'explication.
+# Projet de datavisualisation: La contestation sociale à la SNCF, permanence et tentative d'explication.
 
 # Table des matères 
 
 1. [Origine des données](#1-origine-des-données)
 
-Les Grèves à la SNCF, une habitude qui se perd ?
+Les grèves à la SNCF, une habitude qui se perd ?
 
 2. [Total des journées perdues à la SNCF par depuis 1947](#A-journées-perdues-1947)
 3. [Effectif total de la SNCF depuis 1947](#B-effectif-1947)
@@ -72,7 +72,7 @@ Il n'aura échappé à personne que les journées de grèves depuis le 19 janvie
 
 <iframe title="Nombre de journées perdues par agent cumulées à la SNCF entre 1947 et 2021" aria-label="Election Donut" id="datawrapper-chart-65H8j" src="https://datawrapper.dwcdn.net/65H8j/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe>
 
-   L'utilisation des donuts électifs de Datawrapper pour cette visualisation me semblait justifié puisqu'il s'agissait de décrire une répartition des journées perdues par décenie. L'idée est que la différence de taille des différents quartiers donne à voir immédiatement quelles décenies ont été les plus active avant même de lire les chiffres. 
+   L'utilisation des donuts électifs de Datawrapper pour cette visualisation me semblait justifiée puisqu'il s'agissait de décrire une répartition des journées perdues par décenie. L'idée est que la différence de taille des différents quartiers donne à voir immédiatement quelles décenies ont été les plus actives avant même de lire les chiffres. 
 
    Finalement, si on accumule le totale de journée de grève par agent, par paquet de 17 ou 18 ans, on arrive à un diagnostic plus séquencé. Après une trentaine d'année de grèves très prolifiques (de 1947 à 1980) la contestation sociale à la SNCF a drastiquement baissé à l'aune des années 80. Mais la courbe s'inverse à partir des années 2000 où la contestation à de nouveau la vent en poupe. Depuis 2003, le nombre de journées de grèves accumulées retrouve même le niveau historique des décennies périodes 1947-1965 et 1966-1984.
 
@@ -84,18 +84,18 @@ Il n'aura échappé à personne que les journées de grèves depuis le 19 janvie
 
 <iframe src='https://flo.uri.sh/story/1826459/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/1826459/?utm_source=embed&utm_campaign=story/1826459' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-Que peut on apprendre avec ce diaporama ? Tout d'abord que le nombre de voyageurs est presque en constante augmentation depuis 1950. Et que parralèlement, le nombre de voyageurs au kilomètre à suivi. Il y a donc plus de voyageurs par an et le nombre de voyageurs par train est toujours plus important, ce qui implique une adaptation en terme de nouvelle locomotive assez faible par rapport à la fréquentation des trains. 
+Que peut on apprendre avec ce diaporama ? Tout d'abord que le nombre de voyageurs est presque en constante augmentation depuis 1950. Et que parralèlement, le nombre de voyageurs au kilomètre a suivi le rythme. Il y a donc plus de voyageurs par an et le nombre de voyageurs par train est toujours plus important, ce qui implique une adaptation en terme de nouvelle locomotive assez faible par rapport à la fréquentation des trains. 
 
-Cette information est a rapproché de la réduction des lignes en exploitation,ce qui peut sembler paradoxal puisque le nombre de voyageurs est lui en augmentation. Cette baisse tient à la fermeture progressive des gares "de proximité" dans les petites villes, qui sont petit à petit délaissées. 
+Cette information est à rapproché de la réduction des lignes en exploitation, ce qui peut sembler paradoxal puisque le nombre de voyageurs est lui en augmentation. Cette baisse tient à la fermeture progressive des gares "de proximité" dans les petites villes, qui sont petit à petit délaissées. 
 
-Enfin la dernière diapositive nous informe sur l'évolution des effectifs de la SNCF. On remarque que si le nombre d'ingénieurs de la SNCF est en augementation. Tous les autres corps de métiers, sont au mieux stables, au pire en diminution. Or, ce sont les métiers d'entretiens ou au contact des usagers (agent commerciaux à bord des trains, manager de proximité) qui diminuent. 
-On arrive ainsi à une situation ou chaque agent se retrouve à gérer une masse de voyageurs toujours plus importantes et ou le réseau est animé et entretenue par moins d'agent. 
+Enfin la dernière diapositive nous informe sur l'évolution des effectifs de la SNCF. On remarque que si le nombre d'ingénieurs de la SNCF est en augementation. Tous les autres corps de métiers, sont au mieux stables, au pire en diminution. Or, ce sont les métiers d'entretiens et d'aiguillages ou au contact des usagers (agents commerciaux à bord des trains, managers de proximité) qui diminuent. 
+On arrive ainsi à une situation ou chaque agent se retrouve à gérer une masse de voyageurs toujours plus importante et ou le réseau est animé et entretenu par moins d'agent. 
 
 ## 7. Niveau des salaire à la SNCF
 
 <iframe src='https://flo.uri.sh/visualisation/12713641/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12713641/?utm_source=embed&utm_campaign=visualisation/12713641' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-L'utilisation de la visualisation "bar chart race" sur flourish avait pour intérêt de montrer que l'augmentation des salaires à la SNCF bien que constante reste finalement assez faible. Le contraste vient de l'ajout d'une donnée concernant le salaire moyen en France. Ainsi, 4 à 6 catégories d'agent de la SNCF se retrouve en dessous du salaire moyen français. 
+L'utilisation de la visualisation "bar chart race" sur flourish avait pour intérêt de montrer que l'augmentation des salaires à la SNCF bien que constante reste finalement assez faible. Le contraste vient de l'ajout d'une donnée concernant le salaire moyen en France. Ainsi, 4 à 6 catégories d'agent de la SNCF se retrouvent en dessous du salaire moyen français. 
 
 ## 8. Temps de travail à la SNCF
 
@@ -107,12 +107,12 @@ A l'inverse des salaires, le temps de travail à la SNCF est en diminution depui
 
 <iframe src='https://flo.uri.sh/visualisation/12719174/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12719174/?utm_source=embed&utm_campaign=visualisation/12719174' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-Parfaitement dans le thème actuel, il est surprenant de remarquer qu'un des derniers "privilèges" des agents de la SNCF est déjà en train de s'éroder à vue d'oeil. Entre 2007 et 2020, l'âge de départ à la retraite moyen à la SNCF a augementer de plus de 3 ans sur une période de seulement 13 ans. 
+Parfaitement dans le thème actuel, il est surprenant de remarquer qu'un des derniers "privilèges" des agents de la SNCF est déjà en train de s'éroder à vue d'oeil. Entre 2007 et 2020, l'âge de départ à la retraite moyen à la SNCF a augementé de plus de 3 ans sur une période de seulement 13 ans. 
 
 ## 10. Nombre de suicide dont le caractère professionnel a été reconnu à la SNCF depuis 2007
 
 <iframe src='https://flo.uri.sh/visualisation/12718974/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12718974/?utm_source=embed&utm_campaign=visualisation/12718974' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-Enfin cette dernière visualisation a pour but d'éclairer sur l'impact de la détérioration des conditions de travail à la SNCF. Même si les chiffres des suicides professionnels restent relativement bas (4 suicides par an pour enivron 130 000 à 150 000 agents selon les années). Ils ne sont pas anodins et la période 2013 - 2019 et même particulièrement sombre puisqu'à l'exception de 2014 et 2018, chaque année a vue au moins 3 suicide professionnel là ou les années 2007 - 2012 oscillent généralement entre 1, 2 et 0. 
+Enfin cette dernière visualisation a pour but d'éclairer sur l'impact de la détérioration des conditions de travail à la SNCF. Même si les chiffres des suicides professionnels restent relativement bas (4 suicides maximum par an pour enivron 130 000 à 150 000 agents selon les années). Ils ne sont pas anodins et la période 2013 - 2019 et même particulièrement sombre puisqu'à l'exception de 2014 et 2018, chaque année a vu au moins 3 suicides professionnels là ou les années 2007 - 2012 oscillent généralement entre 1, 2 et 0. 
 
 
