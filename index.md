@@ -13,10 +13,10 @@ Les grèves à la SNCF, une habitude qui se perd ?
 
 Les raisons de la colère 
 
-6. [Diaporama : évolution du nombre de voyageur, du nombre d'agent par catégorie et de l'état du réseau férroviaire](#6-Diaporama)
-7. [Niveau des salaire à la SNCF](#7-salaire)
-8. [Temps de travail à la SNCF](#8-temps-travail)
-9. [Age de départ à la retraite à la SNCF](#9-retraite)
+6. [Diaporama : évolution du nombre de voyageurs, du nombre d'agents par catégorie et de l'état du réseau férroviaire](#6-Diaporama)
+7. [Evolution du niveau des salaires annuels à la SNCF depuis 2010](#7-salaire)
+8. [Evolution du temps de travail à la SNCF depuis 1950](#8-temps-travail)
+9. [Age moyen de départ à la retraite à la SNCF depuis 2007](#9-retraite)
 10. [Nombre de suicide dont le caractère professionnel a été reconnu à la SNCF depuis 2007](#10-suicide)
 
 
@@ -91,13 +91,13 @@ Cette information est à rapproché de la réduction des lignes en exploitation,
 Enfin la dernière diapositive nous informe sur l'évolution des effectifs de la SNCF. On remarque que si le nombre d'ingénieurs de la SNCF est en augementation. Tous les autres corps de métiers, sont au mieux stables, au pire en diminution. Or, ce sont les métiers d'entretiens et d'aiguillages ou au contact des usagers (agents commerciaux à bord des trains, managers de proximité) qui diminuent. 
 On arrive ainsi à une situation ou chaque agent se retrouve à gérer une masse de voyageurs toujours plus importante et ou le réseau est animé et entretenu par moins d'agent. 
 
-## 7. Niveau des salaire à la SNCF
+## 7. Evolution du niveau des salaires annuels à la SNCF depuis 2010 
 
 <iframe src='https://flo.uri.sh/visualisation/12713641/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12713641/?utm_source=embed&utm_campaign=visualisation/12713641' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 L'utilisation de la visualisation "bar chart race" sur flourish avait pour intérêt de montrer que l'augmentation des salaires à la SNCF bien que constante reste finalement assez faible. Le contraste vient de l'ajout d'une donnée concernant le salaire moyen en France. Ainsi, 4 à 6 catégories d'agent de la SNCF se retrouvent en dessous du salaire moyen français. 
 
-## 8. Temps de travail à la SNCF
+## 8. Evolution du temps de travail à la SNCF depuis 1950 
 
 <iframe src='https://flo.uri.sh/visualisation/12718407/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12718407/?utm_source=embed&utm_campaign=visualisation/12718407' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
