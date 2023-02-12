@@ -4,14 +4,14 @@
 
 1. [Origine et traitement des des données](#1-origine-et-traitement-des-données)
 
-#Les Grèves à la SNCF, une habitude qui se perd ?
+Les Grèves à la SNCF, une habitude qui se perd ?
 
 2. [Total des journées perdues à la SNCF par depuis 1947](#A-journées-perdues-1947)
 3. [Effectif total de la SNCF depuis 1947](#B-effectif-1947)
 4. [Journées perdues par agent de la SNCF depuis 1947](#C-journées-perdues-agent-1947)
 5. [Nombre de journées perdues par agent cumulées à la SNCF entre 1947 et 2021](#D-journées-cumulées-1947)
 
-#Les raisons de la colère 
+Les raisons de la colère 
 
 6. [Diaporama : évolution du nombre de voyageur, du nombre d'agent par catégorie et de l'état du réseau férroviaire](#7-Diaporama)
 7. [Niveau des salaire à la SNCF](#8-salaire)
